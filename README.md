@@ -1,3 +1,7 @@
 # nginx_systemd
 Systemd file for nginx
-wget https://raw.githubusercontent.com/kingprimex/nginx_systemd/nginx.service
+USAGE:
+
+wget https://raw.githubusercontent.com/kingprimex/nginx_systemd/master/nginx.service
+
+cp nginx.service /usr/lib/systemd/system/nginx.service
